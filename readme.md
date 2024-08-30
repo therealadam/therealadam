@@ -1,5 +1,4 @@
 Adam Keys makes calm, empowering technology:
 
-- building teams and a better employee networking experience at [Pingboard](https://pingboard.com)
-- [writing](https://pingboard.com) about technology and teams
-- [sharing](https://short.therealadam.com) short quips and nifty discoveries
+- looking for my next team
+- [writing](https://therealadam.com) about technology and teams
